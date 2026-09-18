@@ -8,3 +8,6 @@
 **Docente:** Walter H. Arboleda Mazo
 **Estudiante:** Kevin Monsalve Alvarez
 
+## Codigo
+
+Ejercicios en archivo '.py'
