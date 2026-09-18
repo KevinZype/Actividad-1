@@ -13,10 +13,10 @@
 Ejercicios en archivo `.py`
 
 - [Ejercicio 1](<Actividad 1/Problemas/Problema1.py>)
-- [Ejercicio 2](<Actividad 1/problemas/Problema2.py>)
-- [Ejercicio 3](<Actividad 1/problemas/Problema3.py>)
-- [Ejercicio 4](<Actividad 1/problemas/Problema4.py>)
-- [Ejercicio 5](<Actividad 1/problemas/Problema5.py>)
+- [Ejercicio 2](<Actividad 1/Problemas/problema2.py>)
+- [Ejercicio 3](<Actividad 1/Problemas/problema3.py>)
+- [Ejercicio 4](<Actividad 1/Problemas/problema4.py>)
+- [Ejercicio 5](<Actividad 1/Problemas/problema5.py>)
 
 Diagramas de clase (`.pml` y `.png`)
 
