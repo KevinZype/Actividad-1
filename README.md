@@ -13,7 +13,7 @@
 Ejercicios en archivo `.py`
 - [`Ejercicio 1`](Actividad 1/Problemas/Problema1.py)
 - [`Ejercicio 2`](Actividad 1/Problemas/Problema2.py)
-- [`Ejercicio 3`](AActividad 1/Problemas/Problema3.py)
+- [`Ejercicio 3`](Actividad 1/Problemas/Problema3.py)
 - [`Ejercicio 4`](Actividad 1/Problemas/Problema4.py)
 - [`Ejercicio 5`](AActividad 1/Problemas/Problema5.py)
 
