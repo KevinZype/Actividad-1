@@ -1,0 +1,21 @@
+@startuml Diagrama Ejercicio 4
+
+class Numero {
+    + valor : int
+    
+    + __init__(valor: int)
+}
+
+class CalculadoraPotencias {
+    + numero : Numero
+    + cuadrado : int
+    + cubo : int
+    
+    + __init__(numero: Numero)
+    + calcular() : void
+    + mostrar() : void
+}
+
+CalculadoraPotencias o-- Numero
+
+@enduml

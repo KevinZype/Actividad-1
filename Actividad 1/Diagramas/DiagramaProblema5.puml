@@ -1,0 +1,21 @@
+@startuml Diagrama Ejercicio 5
+
+class Circulo {
+    + radio : int
+    
+    + __init__(radio: int)
+}
+
+class CalculadoraCirculo {
+    + circulo : Circulo
+    + area : int
+    + longitud : int
+    
+    + __init__(circulo: Circulo)
+    + calcular() : void
+    + mostrar() : void
+}
+
+CalculadoraCirculo o-- Circulo
+
+@enduml 

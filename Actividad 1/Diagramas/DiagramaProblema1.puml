@@ -1,0 +1,14 @@
+@startuml Diagrama Ejercicio 1
+
+class EdadesFamilia {
+    + EDJUAN : int
+    + EDALBER : int
+    + EDANA : int
+    + EDMAMA : int
+    
+    + __init__(edjuan: int)
+    + calcular() : void
+    + mostrar() : void
+}
+
+@enduml

@@ -1,0 +1,24 @@
+@startuml Diagrama Ejercicio 3
+
+class Empleado {
+    + horas_trabajadas : int
+    + valor_hora : int
+    
+    + __init__(horas: int, valor: int)
+}
+
+class LiquidacionNomina {
+    + empleado : Empleado
+    + porcentaje_ret : float
+    + salario_bruto : int
+    + retencion : int
+    + salario_neto : int
+    
+    + __init__(empleado: Empleado, porcentaje_ret: float)
+    + calcular() : void
+    + mostrar() : void
+}
+
+LiquidacionNomina o-- Empleado
+
+@enduml 

@@ -1,0 +1,13 @@
+@startuml Diagrama Ejercicio 2
+
+class PruebaEscritorio {
+    + SUMA : float
+    + X : int
+    + Y : int
+    
+    + __init__(x: int, y: int)
+    + ejecutar() : void
+    + mostrar() : void
+}
+
+@enduml
